@@ -4,14 +4,14 @@
 Write a C Program that prints the following output:
 Aloha World!
 Aloha
-Regis!
+Aditi!
 Aloh
-a Regis! 
+a    Aditi! 
 
-Please replace Regis with your first name.
+Please replace Aditi with your first name. (Make sure you follow the formatting i.e. new line and tab).
 */
 
 int main() {
-    
+    // your code
     return 0;
 }
