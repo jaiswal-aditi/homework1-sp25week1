@@ -4,7 +4,7 @@
 # Format Specifiers
 
 ### Assignment:
-- Update prob1, prob2, prob3, prob4 (a,b,c,d,e,f) and prob5 .c files. The description of the homework is provided in those files but is also uploaded on Laulima.
+- Update prob1, prob2, prob3, prob4 (a,b,c,d,e,f) and prob5 .c files. The description of the homework is provided in those files and is also uploaded on Laulima.
   
 ### Steps to submit changes:
 1. Click on the desired .c to open file.
